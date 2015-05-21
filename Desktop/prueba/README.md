@@ -8,7 +8,9 @@ evaluará el desarrollo de software guiado por pruebas (TDD)
 
 1.- Clonar el siguiente repositorio:
 
-[Prueba 1](https://github.com/elikary/Prueba1.git)
+````
+https://github.com/elikary/Prueba1.git
+````
 
 El cual contiene los requerimientos de la prueba
 
@@ -16,7 +18,7 @@ El cual contiene los requerimientos de la prueba
 
 3.-  Una vez que el repositorio este listo y configurado
 
--Ahi podran encontrar la clase Figura de la cual tendran que heredar sus atributos y metodos para
+-Ahi podran encontrar la clase Figuras.java de la cual tendran que heredar sus atributos y metodos para
 poder crear las siguientes clases:
 
 -Crear una clase llamada Triangulo que tenga metodos para calcular el perimetro, el area y que imprima dichos valores 
