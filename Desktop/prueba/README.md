@@ -1,4 +1,5 @@
 ﻿<<<<<<< HEAD
+﻿JORGE TAPIA
 ﻿SOLANGE GALARZA V.
 Jessica Olivo 
 =======
