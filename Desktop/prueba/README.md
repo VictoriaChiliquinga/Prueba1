@@ -1,6 +1,14 @@
+﻿<<<<<<< HEAD
 ﻿SOLANGE GALARZA V.
 Jessica Olivo 
+=======
+<<<<<<< HEAD
+Patricio Betancourt
+=======
+SOLANGE GALARZA V.
+>>>>>>> 3656bcedbf97c55b15c4182279e4b7dfc791c243
 
+>>>>>>> origin/master
 # PRIMERA PRUEBA DE TECNICAS Y ANALISIS DE DISENO DE SISTEMAS INFORMATICOS
 
 El objetivo de esta evaluacion es comprobar que el estudiante sea capaz de interactuar con sus 
