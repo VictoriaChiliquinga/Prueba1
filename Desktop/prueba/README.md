@@ -1,8 +1,8 @@
 
 ﻿JORGE TAPIA
-
-﻿<<<<<<< HEAD
 .john sanchez
+﻿<<<<<<< HEAD
+
 ﻿SOLANGE GALARZA V.
 Jessica Olivo 
 =======
