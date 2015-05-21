@@ -1,9 +1,29 @@
+PACHECO CRISTIAN
+<<<<<<< HEAD
+Jessica Arciniega
+=======
+GEOVANNY MUÑOZ
+>>>>>>> b190d81ff14254d5c7e00eb91f17ddb34aabe545
+Hugo Granda
+.Paul Guamani
+==============
+.Marcelo Prado
+==============
+
+ï»¿JORGE TAPIA
+=============
+JOHN SANCHEZ
+================
+
+Jessica Olivo 
+=======
 <<<<<<< HEAD
 Luis Borja
 =======
 Patricio Betancourt
 =======
-SOLANGE GALARZA V.
+Solange Galarza
+>>>>>>> 3656bcedbf97c55b15c4182279e4b7dfc791c243
 
 >>>>>>> origin/master
 # PRIMERA PRUEBA DE TECNICAS Y ANALISIS DE DISENO DE SISTEMAS INFORMATICOS
