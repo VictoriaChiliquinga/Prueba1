@@ -1,6 +1,8 @@
 
 ﻿JORGE TAPIA
+=============
 .john sanchez
+================
 ﻿<<<<<<< HEAD
 
 ﻿SOLANGE GALARZA V.
