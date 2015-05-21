@@ -17,7 +17,7 @@ Luis Borja
 =======
 Patricio Betancourt
 =======
-
+Solange Galarza
 >>>>>>> 3656bcedbf97c55b15c4182279e4b7dfc791c243
 
 >>>>>>> origin/master
