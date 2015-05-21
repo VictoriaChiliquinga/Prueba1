@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Jessica Arciniega
+=======
+GEOVANNY MUÑOZ
+>>>>>>> b190d81ff14254d5c7e00eb91f17ddb34aabe545
 Hugo Granda
 .Paul Guamani
 ==============
