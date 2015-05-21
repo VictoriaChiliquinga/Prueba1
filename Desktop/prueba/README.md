@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 Patricio Betancourt
+=======
+SOLANGE GALARZA V.
+
+>>>>>>> origin/master
 # PRIMERA PRUEBA DE TECNICAS Y ANALISIS DE DISENO DE SISTEMAS INFORMATICOS
 
 El objetivo de esta evaluacion es comprobar que el estudiante sea capaz de interactuar con sus 
-compaÒeros en un sistema de control de versiones distribuido como GIT.  Adicionalmente se 
-evaluar· el desarrollo de software guiado por pruebas (TDD)
+compa√±eros en un sistema de control de versiones distribuido como GIT.  Adicionalmente se 
+evaluar√° el desarrollo de software guiado por pruebas (TDD)
 
 ##CREACION Y USO DE REPOSITORIO LOCAL
 
