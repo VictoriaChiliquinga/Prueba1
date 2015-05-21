@@ -1,7 +1,7 @@
 
 ﻿JORGE TAPIA
 =============
-.john sanchez
+JOHN SANCHEZ
 ================
 ﻿<<<<<<< HEAD
 
