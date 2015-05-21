@@ -1,3 +1,4 @@
+Patricio Betancourt
 # PRIMERA PRUEBA DE TECNICAS Y ANALISIS DE DISENO DE SISTEMAS INFORMATICOS
 
 El objetivo de esta evaluacion es comprobar que el estudiante sea capaz de interactuar con sus 
