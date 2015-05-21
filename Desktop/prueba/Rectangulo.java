@@ -33,7 +33,7 @@ public class Rectangulo {
     public void setPerimetro(double perimetro) {
         this.perimetro = perimetro;
     }
-    // CALCULO DE ÀREAS Y PERÌMETROS
+    // CALCULO DE ÀREAS Y PERÌMETROS--------------
     
     public static double CalcularPerimetro(){
      perimetro=base+base+altura+altura;
